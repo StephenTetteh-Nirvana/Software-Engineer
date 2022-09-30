@@ -215,7 +215,7 @@ ul li a{
     color: white;
 }
 .Parent{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:"Poppins";
     text-align: center;
     height: 100%;
     /* border: 1px solid white; */
@@ -226,6 +226,7 @@ ul li a{
 .child1{
     /* border: 1px solid white; */
 }
+
 
 /* Software Area */
 .software{
@@ -280,4 +281,71 @@ ul li a{
     font-weight: lighter;
     margin-top: 20px;
     margin-right: 90px;
+}
+
+/* EXPERIENCE */
+.child2{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    /* line-height: 1.5em; */
+    /* border: 1px solid white; */
+}
+.exp{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-right: 140px;
+}
+.expert{
+    /* line-height: 2em; */
+    margin-top: 20px;
+}
+.white{
+    margin-top:50px;
+    margin-right:50px ;
+}
+.art{
+    /* margin-top: 10px; */
+    margin-right:185px;
+}
+.pyramid{
+    margin-top: 50px;
+    margin-right: 5px;
+}
+.senior{
+      margin-right: 130px;
+}
+.planet{
+    /* border: 1px solid white; */
+    margin-top: 50px;
+    margin-right: 110px;
+}
+.graphic{
+    margin-right:95px;
+}
+.graphic1{
+    margin-right:175px;
+}
+.graphic2{
+    margin-right:200px;
+}
+.agency{
+    margin-top: 50px;
+    margin-right: 37px;
+}
+.marco{
+    margin-top:50px;
+}
+.education{
+    margin-right:120px;
+    margin-top: 40px;
+}
+.head{
+    margin-right: 30px;
+}
+.com{
+    margin-left: 20px;
+}
+.school{
+    margin-left:10px;
 }
