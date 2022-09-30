@@ -199,3 +199,85 @@ ul li a{
     margin-left: 70px;
     margin-top: 10px;
 }
+
+/* Resume */
+.background-image{
+    /* display: grid; */
+    /* grid-template-columns: 1.5fr 1.5fr 1.5fr; */
+    height: 800px;
+    background-image: url(../images/6.jpg);
+    /* opacity: 0.2; */
+    background-repeat:no-repeat;
+    background-size:cover;
+    /* padding-top: 300px; */
+    /* padding-left: 50px; */
+    background-position:center;
+    color: white;
+}
+.Parent{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 100%;
+    /* border: 1px solid white; */
+    /* margin-left: 30px; */
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+}
+.child1{
+    /* border: 1px solid white; */
+}
+
+/* Software Area */
+.software{
+    font-size:30px;
+    margin-top: 15px;
+    margin-right: 110px;
+}
+.shop{
+    word-spacing: 6em;
+}
+.sho{
+    word-spacing:5.3em;
+}
+.photo{
+    /* border: 1px solid black; */
+    font-size: 20px;
+    line-height: 2em;
+    margin-top: 30px;
+    margin-right: 120px;
+}
+.child1{
+      font-family: "Poppins";
+}
+
+/* LANGUAGES AREA */
+.lang{
+    font-size:30px;
+    margin-top: 50px;
+    margin-right: 170px;
+}
+.Languages{
+    line-height: 2em;
+    font-size:20px;
+    margin-top: 30px;
+    margin-right: 130px;
+}
+.shope{
+    word-spacing: 5.3em;
+}
+.shopee{
+    word-spacing:5.9em ;
+}
+
+/* PERSONAL AREA */
+.person{
+    font-size: 30px;
+    margin-top: 70px;
+    margin-right: 100px;
+}
+.ability{
+    font-size: 18px;
+    font-weight: lighter;
+    margin-top: 20px;
+    margin-right: 90px;
+}
